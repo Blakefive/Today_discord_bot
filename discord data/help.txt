@@ -1,0 +1,9 @@
+```diff
+-Write '!' + what you want to know about today
+-you can input:
+-!hello
+-!now
+-!time
+-!day
+-weather
+-!fine dust

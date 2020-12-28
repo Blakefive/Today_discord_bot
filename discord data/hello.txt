@@ -1,0 +1,5 @@
+```diff
+-Hello
+-I am today Bot
+-I will tell you about today
+-If you do not how to use me, send me !help
