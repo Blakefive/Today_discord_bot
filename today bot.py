@@ -9,7 +9,7 @@ def gotest(list1):
         j = j + list1[i]
     return j
 client = discord.Client()
-token="NzkyOTI3MDcyODYyOTk0NDkw.X-k04g.W50a59BN_eEv5z0x1em8Y0tuzHY"
+token="your_bot_token"
 
 @client.event
 async def on_ready():
